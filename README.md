@@ -3,4 +3,4 @@ This is a Leran Note....
 
 ## Quick Links
 
-+ [Mooc] (https://www.icourse163.org/)
++ [Mooc](https://www.icourse163.org/)

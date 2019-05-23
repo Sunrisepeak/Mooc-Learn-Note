@@ -1,6 +1,6 @@
 #include<iostream>
 #include<string>
-//can use template place of under function
+//might use template take place of under function
 /*
 template <typename T>
 auto max(T x, T y)

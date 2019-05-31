@@ -26,7 +26,7 @@ private:
 	double side;
 public:
 	Square() = delete;	//cast delete default constru....
-	Square(double side) :side{ side } //func list initialize, equal this->side = side
+	Square(double side) :side{ side } //member list initialize, equal this->side = side
 	{
 		std::cout << "Cell Square()" << std::endl;
 	};
@@ -51,7 +51,7 @@ Note 1: constructor step of cell
 2. Combo
 
 Note 2:Init Execute Sequence
-Defualt Member Init --> Ctor Init list --> Ctor body
+Defualt Member Init --> Ctor memb_Init list --> Ctor body
 
 Note 3:Init Opriority of Effect
 Ctor body > Ctor Init list > Default M_Init

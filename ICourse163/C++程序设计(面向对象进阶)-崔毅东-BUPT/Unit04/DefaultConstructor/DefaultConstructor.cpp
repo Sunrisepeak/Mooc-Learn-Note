@@ -55,6 +55,9 @@ Defualt Member Init --> Ctor Init list --> Ctor body
 
 Note 3:Init Opriority of Effect
 Ctor body > Ctor Init list > Default M_Init
+
+Note 4:
+	if exist High Opriority else low_Opri would ignored(not execute)
 */
 int main()
 {

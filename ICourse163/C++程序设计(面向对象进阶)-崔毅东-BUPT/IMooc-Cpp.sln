@@ -59,6 +59,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestString", "Unit04\TestSt
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestArray", "Unit04\TestArray\TestArray.vcxproj", "{E925822B-5578-4167-8C86-0470C1358A85}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ConstexprAndAssert", "Unit04\ConstexprAndAssert\ConstexprAndAssert.vcxproj", "{E419E292-9149-411B-809E-7D4A65CBB452}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -259,6 +261,14 @@ Global
 		{E925822B-5578-4167-8C86-0470C1358A85}.Release|x64.Build.0 = Release|x64
 		{E925822B-5578-4167-8C86-0470C1358A85}.Release|x86.ActiveCfg = Release|Win32
 		{E925822B-5578-4167-8C86-0470C1358A85}.Release|x86.Build.0 = Release|Win32
+		{E419E292-9149-411B-809E-7D4A65CBB452}.Debug|x64.ActiveCfg = Debug|x64
+		{E419E292-9149-411B-809E-7D4A65CBB452}.Debug|x64.Build.0 = Debug|x64
+		{E419E292-9149-411B-809E-7D4A65CBB452}.Debug|x86.ActiveCfg = Debug|Win32
+		{E419E292-9149-411B-809E-7D4A65CBB452}.Debug|x86.Build.0 = Debug|Win32
+		{E419E292-9149-411B-809E-7D4A65CBB452}.Release|x64.ActiveCfg = Release|x64
+		{E419E292-9149-411B-809E-7D4A65CBB452}.Release|x64.Build.0 = Release|x64
+		{E419E292-9149-411B-809E-7D4A65CBB452}.Release|x86.ActiveCfg = Release|Win32
+		{E419E292-9149-411B-809E-7D4A65CBB452}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -288,6 +298,7 @@ Global
 		{B683119C-7A70-4838-B24D-A4A2FCDD4133} = {5E93AE5B-0F04-493F-83B0-37062BF60616}
 		{49F5B6AA-3794-474A-A7FB-17C80EBCC521} = {5E93AE5B-0F04-493F-83B0-37062BF60616}
 		{E925822B-5578-4167-8C86-0470C1358A85} = {5E93AE5B-0F04-493F-83B0-37062BF60616}
+		{E419E292-9149-411B-809E-7D4A65CBB452} = {5E93AE5B-0F04-493F-83B0-37062BF60616}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {69B0CF13-0DFD-4317-8B70-95B3118B606E}

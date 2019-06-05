@@ -20,10 +20,9 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{07C3624E-C805-41C7-B640-495067D77969}</ProjectGuid>
-    <RootNamespace>Test</RootNamespace>
+    <ProjectGuid>{67D00595-2800-4EBF-AE43-DA21835AFACC}</ProjectGuid>
+    <RootNamespace>ImmutableObject</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
-    <ProjectName>TestString</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -116,6 +115,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="Date.h" />
+    <ClInclude Include="Employee.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ImmutableObject.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

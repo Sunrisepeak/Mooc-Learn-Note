@@ -21,7 +21,7 @@ public:
 		numberOfObjects++;
 	}
 	//call agent constructor
-	Square() :Square(3.0) {}
+	Square() : Square(3.0) {}
 	static int getNumberOfObject()
 	{
 		return numberOfObjects;

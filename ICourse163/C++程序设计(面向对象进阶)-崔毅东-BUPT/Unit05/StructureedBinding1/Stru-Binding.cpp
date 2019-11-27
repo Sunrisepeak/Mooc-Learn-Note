@@ -1,6 +1,6 @@
 //Structured Binding
 /*Regulation:
- *	1.amount is same for sign and array-element
+ *  1.amount is same for sign and array-element
  *  2.type is same for sign and array-element
  */
 #include <iostream>

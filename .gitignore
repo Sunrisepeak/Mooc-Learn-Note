@@ -36,3 +36,5 @@
 Debug
 *.vs
 .vscode
+.zip
+.tar

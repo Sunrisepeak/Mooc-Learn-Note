@@ -1,5 +1,3 @@
-import edu.princeton.cs.algs4.WeightedQuickUnionUF;
-
 /* *****************************************************************************
  *  Name:              SPeak Shen
  *  Coursera User ID:
@@ -102,7 +100,6 @@ public class Percolation {
     // test client (optional)
     public static void main(String[] args) {
         System.out.println("test");
-        WeightedQuickUnionUF uf = new WeightedQuickUnionUF(3);
-        System.out.println(uf.getClass());
+
     }
 }

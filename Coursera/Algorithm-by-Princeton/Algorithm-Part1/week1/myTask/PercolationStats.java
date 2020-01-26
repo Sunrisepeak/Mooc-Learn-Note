@@ -1,12 +1,11 @@
-import java.util.Scanner;
-
-import static java.lang.Math.sqrt;
-
 /* *****************************************************************************
  *  Name:              SPeak Shen
- *  Coursera User ID:  123456
+ *  Coursera User ID:
  *  Last modified:     1/20/2020
  **************************************************************************** */
+import java.util.Scanner;
+import static java.lang.Math.sqrt;
+
 public class PercolationStats {
     private  Double stddev;
     private Double mean;

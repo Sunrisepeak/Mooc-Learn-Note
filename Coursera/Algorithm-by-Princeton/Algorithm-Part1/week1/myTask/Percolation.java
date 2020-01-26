@@ -1,3 +1,5 @@
+import edu.princeton.cs.algs4.WeightedQuickUnionUF;
+
 /* *****************************************************************************
  *  Name:              SPeak Shen
  *  Coursera User ID:
@@ -12,6 +14,8 @@ public class Percolation {
 
     // creates n-by-n grid, with all sites initially blocked
     public Percolation(int n) {
+        if (n < 1)
+            throw new IllegalArgumentException(n + " not is > 1");
         sideLen = n;
         countOpenNumber = 0;
         virtualBottom = false;
@@ -20,9 +24,6 @@ public class Percolation {
             for(int col : rows) {
                 col = 0;
             }
-        }
-        for (int i = 0; i < n + 1; i++) {
-            sites[0][i] = 2;
         }
     }
 
@@ -39,11 +40,15 @@ public class Percolation {
 
     // is the site (row, col) open?
     public boolean isOpen(int row, int col) {
+        if(!validata(row, col))
+            throw new IllegalArgumentException("index(row/col) " + row + "/" + col + " is not between 1 and " + sideLen);
         return (sites[row][col] >= 1);
     }
 
     // is the site (row, col) full?
     public boolean isFull(int row, int col) {
+       if(!validata(row, col))
+            throw new IllegalArgumentException("index(row/col) " + row + "/" + col + " is not between 1 and " + sideLen);
         return (sites[row][col] == 2);
     }
 
@@ -64,7 +69,7 @@ public class Percolation {
 
     private void flushStatusOfFull(int row, int col) {
         if (validata(row, col) && sites[row][col] == 1) {
-            if (aroundExistFull(row, col)) {
+            if (aroundExistFull(row, col) || row == 1) {
                 sites[row][col] = 2;
                 if(row == sideLen)
                     virtualBottom = true;
@@ -91,7 +96,8 @@ public class Percolation {
     }
 
     private boolean validata(int row, int col) {
-        if(row >= 0 && row < sideLen + 1 && col >= 0 && col < sideLen + 1) {
+        // zero_col zero_row is vitrual col/row of full determine
+        if(row > 0 && row < sideLen + 1 && col > 0 && col < sideLen + 1) {
             return true;
         }
         return false;
@@ -99,7 +105,6 @@ public class Percolation {
 
     // test client (optional)
     public static void main(String[] args) {
-        System.out.println("test");
 
     }
 }

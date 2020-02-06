@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aa74be6a-0cdc-475a-a460-cd541e7554e8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Algorithm-Part1/week2/queues/Deque.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1XQJPZc4cXoEiV6uB5rJBySdVN9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa74be6a-0cdc-475a-a460-cd541e7554e8" name="Default Changelist" comment="" />
+      <created>1580972361352</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580972361352</updated>
+      <workItem from="1580972365908" duration="473000" />
+      <workItem from="1580972933092" duration="1000000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="755" y="201" width="468" height="710" key="#com.intellij.ide.util.MemberChooser" timestamp="1580973594642">
+      <screen x="69" y="35" width="1851" height="1045" />
+    </state>
+    <state x="755" y="201" width="468" height="710" key="#com.intellij.ide.util.MemberChooser/69.35.1851.1045@69.35.1851.1045" timestamp="1580973594642" />
+    <state x="268" y="77" width="1442" height="959" key="CommitChangelistDialog2" timestamp="1580973975485">
+      <screen x="69" y="35" width="1851" height="1045" />
+    </state>
+    <state x="268" y="77" width="1442" height="959" key="CommitChangelistDialog2/69.35.1851.1045@69.35.1851.1045" timestamp="1580973975485" />
+    <state x="724" y="257" width="530" height="598" key="FileChooserDialogImpl" timestamp="1580973286235">
+      <screen x="69" y="35" width="1851" height="1045" />
+    </state>
+    <state x="724" y="257" width="530" height="598" key="FileChooserDialogImpl/69.35.1851.1045@69.35.1851.1045" timestamp="1580973286235" />
+    <state x="349" y="35" width="1280" height="1045" key="SettingsEditor" timestamp="1580973288730">
+      <screen x="69" y="35" width="1851" height="1045" />
+    </state>
+    <state x="349" y="35" width="1280" height="1045" key="SettingsEditor/69.35.1851.1045@69.35.1851.1045" timestamp="1580973288730" />
+    <state x="702" y="459" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580973943617">
+      <screen x="69" y="35" width="1851" height="1045" />
+    </state>
+    <state x="702" y="459" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/69.35.1851.1045@69.35.1851.1045" timestamp="1580973943617" />
+  </component>
+</project>

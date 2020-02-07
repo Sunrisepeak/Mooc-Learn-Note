@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aa74be6a-0cdc-475a-a460-cd541e7554e8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Algorithm-Part1/week2/queues/Deque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm-Part1/week2/queues/Permutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm-Part1/week2/queues/RandomizedQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm-Part1/week2/queues/testFile/distinct.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm-Part1/week2/queues/testFile/duplicates.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm-Part1/week2/queues/Deque.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm-Part1/week2/queues/Deque.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm-by-Princeton.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm-by-Princeton.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/stdlib.jar" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,8 +43,38 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/lib" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.Permutation">
+    <configuration name="Deque" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Deque" />
+      <module name="Algorithm-by-Princeton" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Permutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Permutation" />
+      <module name="Algorithm-by-Princeton" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RandomizedQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RandomizedQueue" />
+      <module name="Algorithm-by-Princeton" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Permutation" />
+        <item itemvalue="Application.RandomizedQueue" />
+        <item itemvalue="Application.Deque" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -62,30 +99,60 @@
       <option name="presentableId" value="Default" />
       <updated>1580972361352</updated>
       <workItem from="1580972365908" duration="473000" />
-      <workItem from="1580972933092" duration="1000000" />
+      <workItem from="1580972933092" duration="7145000" />
+      <workItem from="1580980113652" duration="13736000" />
+      <workItem from="1581056014648" duration="4094000" />
     </task>
+    <task id="LOCAL-00001" summary="test idea git">
+      <created>1580973975840</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580973975840</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test idea git" />
+    <option name="LAST_COMMIT_MESSAGE" value="test idea git" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="755" y="201" width="468" height="710" key="#com.intellij.ide.util.MemberChooser" timestamp="1580973594642">
+    <state x="755" y="201" width="468" height="710" key="#com.intellij.ide.util.MemberChooser" timestamp="1580987008227">
       <screen x="69" y="35" width="1851" height="1045" />
     </state>
-    <state x="755" y="201" width="468" height="710" key="#com.intellij.ide.util.MemberChooser/69.35.1851.1045@69.35.1851.1045" timestamp="1580973594642" />
+    <state x="755" y="201" width="468" height="710" key="#com.intellij.ide.util.MemberChooser/69.35.1851.1045@69.35.1851.1045" timestamp="1580987008227" />
     <state x="268" y="77" width="1442" height="959" key="CommitChangelistDialog2" timestamp="1580973975485">
       <screen x="69" y="35" width="1851" height="1045" />
     </state>
     <state x="268" y="77" width="1442" height="959" key="CommitChangelistDialog2/69.35.1851.1045@69.35.1851.1045" timestamp="1580973975485" />
-    <state x="724" y="257" width="530" height="598" key="FileChooserDialogImpl" timestamp="1580973286235">
+    <state x="724" y="257" width="530" height="598" key="FileChooserDialogImpl" timestamp="1581057297763">
       <screen x="69" y="35" width="1851" height="1045" />
     </state>
-    <state x="724" y="257" width="530" height="598" key="FileChooserDialogImpl/69.35.1851.1045@69.35.1851.1045" timestamp="1580973286235" />
-    <state x="349" y="35" width="1280" height="1045" key="SettingsEditor" timestamp="1580973288730">
+    <state x="724" y="257" width="530" height="598" key="FileChooserDialogImpl/69.35.1851.1045@69.35.1851.1045" timestamp="1581057297763" />
+    <state width="1793" height="409" key="GridCell.Tab.0.bottom" timestamp="1581055874413">
       <screen x="69" y="35" width="1851" height="1045" />
     </state>
-    <state x="349" y="35" width="1280" height="1045" key="SettingsEditor/69.35.1851.1045@69.35.1851.1045" timestamp="1580973288730" />
+    <state width="1793" height="409" key="GridCell.Tab.0.bottom/69.35.1851.1045@69.35.1851.1045" timestamp="1581055874413" />
+    <state width="1793" height="409" key="GridCell.Tab.0.center" timestamp="1581055874411">
+      <screen x="69" y="35" width="1851" height="1045" />
+    </state>
+    <state width="1793" height="409" key="GridCell.Tab.0.center/69.35.1851.1045@69.35.1851.1045" timestamp="1581055874411" />
+    <state width="1793" height="409" key="GridCell.Tab.0.left" timestamp="1581055874410">
+      <screen x="69" y="35" width="1851" height="1045" />
+    </state>
+    <state width="1793" height="409" key="GridCell.Tab.0.left/69.35.1851.1045@69.35.1851.1045" timestamp="1581055874410" />
+    <state width="1793" height="409" key="GridCell.Tab.0.right" timestamp="1581055874412">
+      <screen x="69" y="35" width="1851" height="1045" />
+    </state>
+    <state width="1793" height="409" key="GridCell.Tab.0.right/69.35.1851.1045@69.35.1851.1045" timestamp="1581055874412" />
+    <state x="349" y="35" width="1280" height="1045" key="SettingsEditor" timestamp="1581057306055">
+      <screen x="69" y="35" width="1851" height="1045" />
+    </state>
+    <state x="349" y="35" width="1280" height="1045" key="SettingsEditor/69.35.1851.1045@69.35.1851.1045" timestamp="1581057306055" />
     <state x="702" y="459" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580973943617">
       <screen x="69" y="35" width="1851" height="1045" />
     </state>

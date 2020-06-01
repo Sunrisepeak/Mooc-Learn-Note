@@ -1,16 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="aa74be6a-0cdc-475a-a460-cd541e7554e8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Algorithm-Part1/week2/queues/Permutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm-Part1/week2/queues/RandomizedQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm-Part1/week2/queues/testFile/distinct.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm-Part1/week2/queues/testFile/duplicates.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm-Part1/week3/sort/mergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm-Part1/week3/task/Point.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm-Part1/week2/queues/Deque.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm-Part1/week2/queues/Deque.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm-Part1/week1/percolation/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm-Part1/week1/percolation/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm-Part1/week1/percolation/.idea/checkstyle-idea.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm-Part1/week1/percolation/.idea/codeInsightSettings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm-Part1/week1/percolation/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm-Part1/week1/percolation/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm-Part1/week1/percolation/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm-Part1/week1/percolation/.idea/externalDependencies.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm-Part1/week1/percolation/.idea/file.template.settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm-Part1/week1/percolation/.idea/fileTemplates/includes/File Header.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm-Part1/week1/percolation/.idea/fileTemplates/internal/AnnotationType.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm-Part1/week1/percolation/.idea/fileTemplates/internal/Class.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm-Part1/week1/percolation/.idea/fileTemplates/internal/Enum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm-Part1/week1/percolation/.idea/fileTemplates/internal/Interface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm-Part1/week1/percolation/.idea/fileTemplates/internal/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm-Part1/week1/percolation/.idea/fileTemplates/internal/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm-Part1/week1/percolation/.idea/findbugs-idea.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm-Part1/week1/percolation/.idea/inspectionProfiles/Algorithms__Part_I.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm-Part1/week1/percolation/.idea/inspectionProfiles/COS_126.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm-Part1/week1/percolation/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm-Part1/week1/percolation/.idea/libraries/introcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm-Part1/week1/percolation/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm-Part1/week1/percolation/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm-Part1/week1/percolation/.idea/saveactions_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm-Part1/week1/percolation/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Algorithm-by-Princeton.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm-by-Princeton.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/stdlib.jar" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,20 +73,22 @@
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/lib" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
   </component>
-  <component name="RunManager" selected="Application.Permutation">
+  <component name="RunManager" selected="Application.mergeSort (1)">
     <configuration name="Deque" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Deque" />
       <module name="Algorithm-by-Princeton" />
@@ -68,25 +110,35 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="mergeSort (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mergeSort" />
+      <module name="Algorithm-by-Princeton" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week3.sort.mergeSort" />
+      <module name="Algorithm-by-Princeton" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week3.sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.mergeSort (1)" />
+        <item itemvalue="Application.mergeSort" />
         <item itemvalue="Application.Permutation" />
         <item itemvalue="Application.RandomizedQueue" />
         <item itemvalue="Application.Deque" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -102,6 +154,10 @@
       <workItem from="1580972933092" duration="7145000" />
       <workItem from="1580980113652" duration="13736000" />
       <workItem from="1581056014648" duration="4094000" />
+      <workItem from="1589786427563" duration="2056000" />
+      <workItem from="1589790028668" duration="3352000" />
+      <workItem from="1589801201159" duration="8461000" />
+      <workItem from="1591005759076" duration="4462000" />
     </task>
     <task id="LOCAL-00001" summary="test idea git">
       <created>1580973975840</created>
@@ -114,48 +170,68 @@
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test idea git" />
     <option name="LAST_COMMIT_MESSAGE" value="test idea git" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="755" y="201" width="468" height="710" key="#com.intellij.ide.util.MemberChooser" timestamp="1580987008227">
-      <screen x="69" y="35" width="1851" height="1045" />
+    <state x="721" y="194" width="468" height="724" key="#com.intellij.ide.util.MemberChooser" timestamp="1591009091855">
+      <screen x="0" y="35" width="1920" height="1045" />
     </state>
-    <state x="755" y="201" width="468" height="710" key="#com.intellij.ide.util.MemberChooser/69.35.1851.1045@69.35.1851.1045" timestamp="1580987008227" />
-    <state x="268" y="77" width="1442" height="959" key="CommitChangelistDialog2" timestamp="1580973975485">
-      <screen x="69" y="35" width="1851" height="1045" />
+    <state x="721" y="194" width="468" height="724" key="#com.intellij.ide.util.MemberChooser/0.35.1920.1045@0.35.1920.1045" timestamp="1591009091855" />
+    <state x="262" y="184" width="922" height="635" key="FileChooserDialogImpl" timestamp="1589790075887">
+      <screen x="0" y="35" width="1920" height="1045" />
     </state>
-    <state x="268" y="77" width="1442" height="959" key="CommitChangelistDialog2/69.35.1851.1045@69.35.1851.1045" timestamp="1580973975485" />
-    <state x="724" y="257" width="530" height="598" key="FileChooserDialogImpl" timestamp="1581057297763">
-      <screen x="69" y="35" width="1851" height="1045" />
+    <state x="262" y="184" width="922" height="635" key="FileChooserDialogImpl/0.35.1920.1045@0.35.1920.1045" timestamp="1589790075887" />
+    <state width="1862" height="323" key="GridCell.Tab.0.bottom" timestamp="1589810553998">
+      <screen x="0" y="35" width="1920" height="1045" />
     </state>
-    <state x="724" y="257" width="530" height="598" key="FileChooserDialogImpl/69.35.1851.1045@69.35.1851.1045" timestamp="1581057297763" />
-    <state width="1793" height="409" key="GridCell.Tab.0.bottom" timestamp="1581055874413">
-      <screen x="69" y="35" width="1851" height="1045" />
+    <state width="1862" height="323" key="GridCell.Tab.0.bottom/0.35.1920.1045@0.35.1920.1045" timestamp="1589810553998" />
+    <state width="1862" height="323" key="GridCell.Tab.0.center" timestamp="1589810553998">
+      <screen x="0" y="35" width="1920" height="1045" />
     </state>
-    <state width="1793" height="409" key="GridCell.Tab.0.bottom/69.35.1851.1045@69.35.1851.1045" timestamp="1581055874413" />
-    <state width="1793" height="409" key="GridCell.Tab.0.center" timestamp="1581055874411">
-      <screen x="69" y="35" width="1851" height="1045" />
+    <state width="1862" height="323" key="GridCell.Tab.0.center/0.35.1920.1045@0.35.1920.1045" timestamp="1589810553998" />
+    <state width="1862" height="323" key="GridCell.Tab.0.left" timestamp="1589810553997">
+      <screen x="0" y="35" width="1920" height="1045" />
     </state>
-    <state width="1793" height="409" key="GridCell.Tab.0.center/69.35.1851.1045@69.35.1851.1045" timestamp="1581055874411" />
-    <state width="1793" height="409" key="GridCell.Tab.0.left" timestamp="1581055874410">
-      <screen x="69" y="35" width="1851" height="1045" />
+    <state width="1862" height="323" key="GridCell.Tab.0.left/0.35.1920.1045@0.35.1920.1045" timestamp="1589810553997" />
+    <state width="1862" height="323" key="GridCell.Tab.0.right" timestamp="1589810553998">
+      <screen x="0" y="35" width="1920" height="1045" />
     </state>
-    <state width="1793" height="409" key="GridCell.Tab.0.left/69.35.1851.1045@69.35.1851.1045" timestamp="1581055874410" />
-    <state width="1793" height="409" key="GridCell.Tab.0.right" timestamp="1581055874412">
-      <screen x="69" y="35" width="1851" height="1045" />
+    <state width="1862" height="323" key="GridCell.Tab.0.right/0.35.1920.1045@0.35.1920.1045" timestamp="1589810553998" />
+    <state width="1862" height="323" key="GridCell.Tab.1.bottom" timestamp="1589810554000">
+      <screen x="0" y="35" width="1920" height="1045" />
     </state>
-    <state width="1793" height="409" key="GridCell.Tab.0.right/69.35.1851.1045@69.35.1851.1045" timestamp="1581055874412" />
-    <state x="349" y="35" width="1280" height="1045" key="SettingsEditor" timestamp="1581057306055">
-      <screen x="69" y="35" width="1851" height="1045" />
+    <state width="1862" height="323" key="GridCell.Tab.1.bottom/0.35.1920.1045@0.35.1920.1045" timestamp="1589810554000" />
+    <state width="1862" height="323" key="GridCell.Tab.1.center" timestamp="1589810553999">
+      <screen x="0" y="35" width="1920" height="1045" />
     </state>
-    <state x="349" y="35" width="1280" height="1045" key="SettingsEditor/69.35.1851.1045@69.35.1851.1045" timestamp="1581057306055" />
-    <state x="702" y="459" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580973943617">
-      <screen x="69" y="35" width="1851" height="1045" />
+    <state width="1862" height="323" key="GridCell.Tab.1.center/0.35.1920.1045@0.35.1920.1045" timestamp="1589810553999" />
+    <state width="1862" height="323" key="GridCell.Tab.1.left" timestamp="1589810553999">
+      <screen x="0" y="35" width="1920" height="1045" />
     </state>
-    <state x="702" y="459" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/69.35.1851.1045@69.35.1851.1045" timestamp="1580973943617" />
+    <state width="1862" height="323" key="GridCell.Tab.1.left/0.35.1920.1045@0.35.1920.1045" timestamp="1589810553999" />
+    <state width="1862" height="323" key="GridCell.Tab.1.right" timestamp="1589810553999">
+      <screen x="0" y="35" width="1920" height="1045" />
+    </state>
+    <state width="1862" height="323" key="GridCell.Tab.1.right/0.35.1920.1045@0.35.1920.1045" timestamp="1589810553999" />
+    <state x="192" y="35" width="1280" height="1045" key="SettingsEditor" timestamp="1589791939967">
+      <screen x="0" y="35" width="1920" height="1045" />
+    </state>
+    <state x="192" y="35" width="1280" height="1045" key="SettingsEditor/0.35.1920.1045@0.35.1920.1045" timestamp="1589791939967" />
   </component>
 </project>

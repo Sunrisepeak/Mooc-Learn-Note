@@ -32,9 +32,13 @@
 *.out
 *.app
 
+# out file
+out/
+
 # Ohter
 Debug
 *.vs
 .vscode
 *.zip
 *.tar
+.idea

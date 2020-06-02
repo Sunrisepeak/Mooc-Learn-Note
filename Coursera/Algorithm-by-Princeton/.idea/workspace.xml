@@ -20,37 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aa74be6a-0cdc-475a-a460-cd541e7554e8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm-Part1/week3/sort/mergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm-Part1/week3/task/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm-Part1/week3/task/BruteCollinearPoints.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm-Part1/week3/task/LineSegment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm-Part1/week3/task/MergeSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm-Part1/week1/percolation/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm-Part1/week1/percolation/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm-Part1/week1/percolation/.idea/checkstyle-idea.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm-Part1/week1/percolation/.idea/codeInsightSettings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm-Part1/week1/percolation/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm-Part1/week1/percolation/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm-Part1/week1/percolation/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm-Part1/week1/percolation/.idea/externalDependencies.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm-Part1/week1/percolation/.idea/file.template.settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm-Part1/week1/percolation/.idea/fileTemplates/includes/File Header.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm-Part1/week1/percolation/.idea/fileTemplates/internal/AnnotationType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm-Part1/week1/percolation/.idea/fileTemplates/internal/Class.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm-Part1/week1/percolation/.idea/fileTemplates/internal/Enum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm-Part1/week1/percolation/.idea/fileTemplates/internal/Interface.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm-Part1/week1/percolation/.idea/fileTemplates/internal/module-info.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm-Part1/week1/percolation/.idea/fileTemplates/internal/package-info.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm-Part1/week1/percolation/.idea/findbugs-idea.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm-Part1/week1/percolation/.idea/inspectionProfiles/Algorithms__Part_I.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm-Part1/week1/percolation/.idea/inspectionProfiles/COS_126.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm-Part1/week1/percolation/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm-Part1/week1/percolation/.idea/libraries/introcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm-Part1/week1/percolation/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm-Part1/week1/percolation/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm-Part1/week1/percolation/.idea/saveactions_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm-Part1/week1/percolation/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm-by-Princeton.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm-by-Princeton.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm-Part1/week3/sort/mergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm-Part1/week3/sort/MergeSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,15 +56,27 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Algorithm-Part1/week3/task" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
   </component>
-  <component name="RunManager" selected="Application.mergeSort (1)">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Algorithm-Part1/week3/task" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MergeSort">
     <configuration name="Deque" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Deque" />
+      <module name="Algorithm-by-Princeton" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MergeSort" />
       <module name="Algorithm-by-Princeton" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -105,13 +91,6 @@
     </configuration>
     <configuration name="RandomizedQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="RandomizedQueue" />
-      <module name="Algorithm-by-Princeton" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="mergeSort (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mergeSort" />
       <module name="Algorithm-by-Princeton" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -132,7 +111,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.mergeSort (1)" />
+        <item itemvalue="Application.MergeSort" />
         <item itemvalue="Application.mergeSort" />
         <item itemvalue="Application.Permutation" />
         <item itemvalue="Application.RandomizedQueue" />
@@ -157,7 +136,8 @@
       <workItem from="1589786427563" duration="2056000" />
       <workItem from="1589790028668" duration="3352000" />
       <workItem from="1589801201159" duration="8461000" />
-      <workItem from="1591005759076" duration="4462000" />
+      <workItem from="1591005759076" duration="5560000" />
+      <workItem from="1591094109650" duration="4295000" />
     </task>
     <task id="LOCAL-00001" summary="test idea git">
       <created>1580973975840</created>

@@ -1,4 +1,4 @@
-public class mergeSort {
+public class MergeSort {
 
     /*  @output: a is sorted
      *  @input: aux
